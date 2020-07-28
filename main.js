@@ -35,7 +35,7 @@ const renderTableFooter = info => {
     const totalPages = info.pages
     const previousPageAction = `onclick="${info.prev ? `getNewData('${info.prev}')` : ''}"`
     const nextPageAction = `onclick="${info.next ? `getNewData('${info.next}')` : ''}"`
-    const currentPage = parseInt(info.next.match(/\d/g)[0]) - 1
+    const currentPage = parseInt(info.next.match(/\d+/g)[0]) - 1
     tableFooter.insertRow().innerHTML =
         `<td colspan="7">
                 <div>
