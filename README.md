@@ -1,8 +1,10 @@
 # Rick and Morty Characters
 
-It is just a quick app made with Vanilla JS and [Boostrap Custom Styles](https://bootswatch.com/ "Boostrap Custom Styles") that shows you all the characters, and some extra information, from the original serie. All the data was provided by [Rick and Morty API ](https://rickandmortyapi.com/ "Rick and Morty API ").
+It is just a quick [app](https://wilberc.github.io/rick-and-morty-characters/ "app") made with Vanilla JS and [Boostrap Custom Styles](https://bootswatch.com/ "Boostrap Custom Styles") that shows you all the characters, and some extra information, from the original serie. All the data was provided by [Rick and Morty API ](https://rickandmortyapi.com/ "Rick and Morty API ").
 
 It also could be a good quick demo on how to use Arrow Functions, Fetch APIs and DOM manipulation. Feel free to use the code (MIT License). 
+
+https://wilberc.github.io/rick-and-morty-characters/
 
 ![image](https://user-images.githubusercontent.com/27011395/88621079-29d01b00-d065-11ea-9e7a-c7893097701f.png)
 
